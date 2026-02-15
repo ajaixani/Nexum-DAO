@@ -1,0 +1,13 @@
+{
+    "name": "nexum-protocol",
+    "version": "1.0.0",
+    "description": "Smart contracts for Nexum DAO",
+    "scripts": {
+        "test": "hardhat test",
+        "compile": "hardhat compile"
+    },
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "hardhat": "^2.22.0"
+    }
+}
